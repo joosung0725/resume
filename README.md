@@ -5,7 +5,7 @@ VMware 기반 가상화 환경에서 **Windows Server 및 Linux 서버 구축 �
 ---
 
 ## 💻 DAIKO IWS (2020.02 ~ 2023.02) | 인프라 엔지니어
-### 1.  가상화 기반 Windows server 및 Linux 서버 구축 및 설정
+### 1.  가상화 기반 서버 구축 및 시스템 운영
 
 🗓 **주요 업무** : 
  - Vmware기반 Windows Server 구축 (Active Directory, DNS, DHCP, IIS)
