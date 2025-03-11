@@ -9,10 +9,11 @@ VMware 기반 가상화 환경에서 **Windows Server 및 Linux 서버 구축 �
 
 🗓 **주요 업무** : 
  - Vmware기반 Windows Server 구축 (Active Directory, DNS, DHCP, IIS)
- - Vmware기반 Linux 구축 (SSH, mysql, ftp, 방화벽, TCP/IP 구성)
+ - Vmware기반 Linux 구축 (SSH, Mysql, FTP, 방화벽, TCP/IP 구성)
  - 서버 리소스 할당 및 최적화 (CPU, RAM, Storage)
  - 백신 서버 구축 및 중앙 집중식 관리 
  - WSUS 서버 구축을 통한 Windows 업데이트 중앙 집중화 및 배포 자동화
+ - 사용자 기술 지원 및 시스템 운영 지원
 
 🏆 **성과** : 
  - VMware 기반 가상화 서버 구축 서버 운영 비용 70% 절감
@@ -20,6 +21,7 @@ VMware 기반 가상화 환경에서 **Windows Server 및 Linux 서버 구축 �
  - 사내 네트워크 트래픽 분산 및 최적화 사내 네트워크 응답 속도 50% 개선
  - 백신 서버 구축을 통한 엔드포인트 보안 강화 및 자동 업데이트 체계 구성
  - Windows 업데이트 중앙 관리로 패치 배포 소요 시간 80% 단축
+ - IT 기술 지원 및 사용자 문제 해결을 통해 사용자 만족도를 20% 이상 개선, 서비스 품질을 향상
 ---
 ### 2. Active Directory 및 GPO 최적화
    
