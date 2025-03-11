@@ -8,8 +8,8 @@ VMware 기반 가상화 환경에서 **Windows Server 및 Linux 서버 구축 �
 ### 1.  가상화 기반 Windows server 및 Linux 서버 구축 및 설정
 
 🗓 **주요 업무** : 
- - Vmware기반 Windows Server 및 Linux 환경 구축 (도메인, 업데이트)
- - Linux 네트워크 및 보안 설정 (방화벽, 포트 설정, TCP/IP 구성)
+ - Vmware기반 Windows Server 구축 (Active Directory, DNS, DHCP, IIS)
+ - Vmware기반 Linux 구축 (SSH, mysql, ftp, 방화벽, TCP/IP 구성)
  - 서버 리소스 할당 및 최적화 (CPU, RAM, Storage)
  - 백신 서버 구축 및 중앙 집중식 관리 
  - WSUS 서버 구축을 통한 Windows 업데이트 중앙 집중화 및 배포 자동화
