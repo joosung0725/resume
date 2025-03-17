@@ -1,23 +1,18 @@
 # Ju Sung Kim 
 VMware 기반 가상화 환경에서 **Windows Server 및 Linux 서버 구축 및 운영** 경험을 보유하고 있으며, **Active Directory 및 GPO 최적화, 네트워크 트래픽 관리, 시스템 성능 최적화** 등을 수행해 왔습니다.
 **WSUS 서버 구축을 통해 중앙 집중식 관리 체계를 마련**하고, **Zabbix 기반 서버 모니터링 자동화**로 장애 대응 시간을 단축했습니다. 또한, **서버 리소스 최적화 및 네트워크 트래픽 분산 정책을 적용하여 IT 인프라의 안정성과 운영 효율성을 향상**시켰습니다. 
-
 ---
 
 ## 💻 DAIKO IWS (2020.02 ~ 2023.02) | 인프라 엔지니어
 ### 1.  가상화 기반 서버 구축 및 시스템 운영
 
 🗓 **주요 업무** : 
- - Vmware기반 Windows Server 구축 (Active Directory, DNS, DHCP, IIS)
- - Vmware기반 Linux 구축 (SSH, Mysql, FTP, 방화벽, TCP/IP 구성)
- - 서버 리소스 할당 및 최적화 (CPU, RAM, Storage)
- - 백신 서버 구축 및 중앙 집중식 관리 
+ - Windows Server 구축 (Active Directory, DNS, DHCP, IIS)
+ - Linux 구축 (SSH, Mysql, FTP, 방화벽, TCP/IP 구성)
  - WSUS 서버 구축을 통한 Windows 업데이트 중앙 집중화 및 배포 자동화
  - 사용자 기술 지원 및 시스템 운영 지원
 
 🏆 **성과** : 
- - VMware 기반 가상화 서버 구축 서버 운영 비용 70% 절감
- - 리소스 자동 할당 및 최적화 정책 적용으로 서버 과부하 발생률 30% 감소
  - 사내 네트워크 트래픽 분산 및 최적화 사내 네트워크 응답 속도 50% 개선
  - 백신 서버 구축을 통한 엔드포인트 보안 강화 및 자동 업데이트 체계 구성
  - Windows 업데이트 중앙 관리로 패치 배포 소요 시간 80% 단축
